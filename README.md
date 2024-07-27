@@ -34,7 +34,7 @@ The project implements the database of an online election website. This system m
 ### 1. ER Diagram
 The ER diagram provides a comprehensive overview of the database structure, including entities, relationships, and attributes. Below is an image of the ER diagram:
 
-![ER Diagram](diagrams/ER Diagram.png)
+![ER Diagram](diagrams/ER-Diagram.png)
 
 ### 2. Internal Level Design
 The internal level design defines the logical structure of the database, focusing on tables, primary keys, foreign keys, and relationships. Key components include:
@@ -51,9 +51,9 @@ The external level design outlines how users interact with the system. Key user 
 - **Voter Interface**
 - **Election Results Dashboard**
 
-![Reference graph](diagrams/Reference graph1.png)
+![Reference graph](diagrams/Reference-graph1.png)
 
-![Reference graph](diagrams/Reference graph2.png)
+![Reference graph](diagrams/Reference-graph2.png)
 
 ### 4. SQL Implementation
 The SQL scripts implement the database schema, including table creation, data insertion, and query operations. Key scripts include:
